@@ -9,3 +9,4 @@ def placement():
 
 def telephone():
     return input('telephone: ')
+    
